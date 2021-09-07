@@ -61,9 +61,6 @@ DB_DATABASE=testeMonetus
 ### apos a configuração basta rodar o comando:
 
 ```
-adonis serve --dev 
-
-ou
 
 npm start serve
 
@@ -115,9 +112,10 @@ App running at:
 ### Para executar os teste basta rodar o comando:
 
 ```
+
 cd backend
 
-adonis test
+node ace test
 
 ```
 
