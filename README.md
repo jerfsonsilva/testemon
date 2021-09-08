@@ -62,7 +62,7 @@ DB_DATABASE=testeMonetus
 
 ```
 
-npm run serve
+npm start serve
 
 ```
 
