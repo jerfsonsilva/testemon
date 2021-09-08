@@ -37,7 +37,7 @@ class CompanyController {
 
     if (symbol == undefined) {
       response.status(403);//Requisição invalida
-      response.json({ err: "O paramentro symbol é obrigatorio" });
+      response.json({ err: "O parametro symbol é obrigatorio" });
       return;
     }
 

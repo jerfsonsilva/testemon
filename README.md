@@ -62,7 +62,7 @@ DB_DATABASE=testeMonetus
 
 ```
 
-npm start serve
+npm run serve
 
 ```
 
@@ -187,7 +187,7 @@ Caso essa resposta aconteça significa que o parametro symbol é obrigatorio na 
 Exemplo de resposta:
 ```
 {
-    "err": "O paramentro symbol é obrigatorio"
+    "err": "O parametro symbol é obrigatorio"
 }
 ```
 #### Requisição invalida! 404
